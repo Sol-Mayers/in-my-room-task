@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/in-my-room-task/static/css/main.b0da209c.css",
+    "main.js": "/in-my-room-task/static/js/main.6c16d216.js",
+    "static/media/kitchen.png": "/in-my-room-task/static/media/kitchen.b1028b2929ee3ead9741.png",
+    "index.html": "/in-my-room-task/index.html",
+    "main.b0da209c.css.map": "/in-my-room-task/static/css/main.b0da209c.css.map",
+    "main.6c16d216.js.map": "/in-my-room-task/static/js/main.6c16d216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0da209c.css",
+    "static/js/main.6c16d216.js"
+  ]
+}
