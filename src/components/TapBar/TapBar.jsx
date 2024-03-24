@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 
-export const TapBar = ({ setOpenPopup, ref }) => {
+export const TapBar = ({ setOpenPopup }) => {
     const [commentCounter, setCommentCounter] = useState(0);
     const [likeCounter, setLikeCounter] = useState(0);
 
