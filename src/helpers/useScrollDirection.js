@@ -23,6 +23,5 @@ export default function useScrollDirection(setScrollCount, lastScrollY) {
             window.removeEventListener("scroll", updateScrollDirection);
         };
     }, [scrollDirection]);
-
     return scrollDirection;
 }

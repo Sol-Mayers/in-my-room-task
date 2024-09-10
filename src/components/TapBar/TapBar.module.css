@@ -108,3 +108,17 @@
     margin: 0 0 10px 0;
     padding: 0;
 }
+.alertWindow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #b7b7b7;
+    color: #000000;
+}
